@@ -1,0 +1,24 @@
+.light-image {
+    opacity: 0.6;
+    height: max-content;
+}
+
+.custom-link {
+    color: white !important;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.custom-link:hover {
+    color: rgb(44, 19, 189) !important;
+}
+
+/* Add spacing between links */
+.navbar-nav .nav-item {
+    margin-left: 50px;
+}
+
+/* Right alignment for navbar links */
+/* .navbar-nav {
+    text-align: right;
+} */
